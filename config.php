@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'https://rionalmarpaung.github.io/';
 $dbname = 'gis_indomaret';
 $username = 'root';
 $password = '';
@@ -12,3 +12,4 @@ try {
     die("Koneksi gagal: " . $e->getMessage());
 }
 ?>
+
